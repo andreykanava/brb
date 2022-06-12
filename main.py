@@ -60,4 +60,4 @@ async def on_message(ctx):
             print(buyorder)
             await ctx.reply(":money_with_wings:Сделка открыта!:money_with_wings:")
 
-DS.run('OTg0NzQ2Nzk0MTU4Mjg4OTI3.GtCiX2.NjkYlx6Rm-2K4pqYlgqqJDPctfQGb28mrRKNnk')
+DS.run('')
